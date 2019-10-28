@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "kanthi.io",
     "description": "",
-    "home_page_url": "https://kanthi.io",
-    "feed_url": "https://kanthi.io/feed.json",
+    "home_page_url": "https://aksanoble.github.io/blog",
+    "feed_url": "https://aksanoble.github.io/blog/feed.json",
     "user_comment": "",
     "author": {
         "name": "Akshay Kanthi"
     },
     "items": [
         {
-            "id": "https://kanthi.io/restart.html",
-            "url": "https://kanthi.io/restart.html",
+            "id": "https://aksanoble.github.io/blog/restart.html",
+            "url": "https://aksanoble.github.io/blog/restart.html",
             "title": "ReStart",
             "summary": "Yet another blogging system. Yet another website.",
             "content_html": "Yet another blogging system. Yet another website.",

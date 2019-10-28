@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>kanthi.io</title>
-    <link href="https://kanthi.io/feed.xml" rel="self" />
-    <link href="https://kanthi.io" />
-    <updated>2019-10-13T17:14:09+05:30</updated>
+    <link href="https://aksanoble.github.io/blog/feed.xml" rel="self" />
+    <link href="https://aksanoble.github.io/blog" />
+    <updated>2019-10-28T16:03:01+05:30</updated>
     <author>
         <name>Akshay Kanthi</name>
     </author>
-    <id>https://kanthi.io</id>
+    <id>https://aksanoble.github.io/blog</id>
 
     <entry>
         <title>ReStart</title>
         <author>
             <name>Akshay Kanthi</name>
         </author>
-        <link href="https://kanthi.io/restart.html"/>
-        <id>https://kanthi.io/restart.html</id>
+        <link href="https://aksanoble.github.io/blog/restart.html"/>
+        <id>https://aksanoble.github.io/blog/restart.html</id>
 
         <updated>2019-10-13T17:14:04+05:30</updated>
             <summary>
