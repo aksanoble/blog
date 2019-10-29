@@ -3,7 +3,7 @@
     <title>kanthi.io</title>
     <link href="https://kanthi.io/feed.xml" rel="self" />
     <link href="https://kanthi.io" />
-    <updated>2019-10-29T13:12:37+05:30</updated>
+    <updated>2019-10-29T13:14:23+05:30</updated>
     <author>
         <name>Akshay Kanthi</name>
     </author>
@@ -14,8 +14,8 @@
         <author>
             <name>Akshay Kanthi</name>
         </author>
-        <link href="https://kanthi.io/freecodecamp-offline.html"/>
-        <id>https://kanthi.io/freecodecamp-offline.html</id>
+        <link href="https://kanthi.io/freecodecamp-offline/"/>
+        <id>https://kanthi.io/freecodecamp-offline/</id>
 
         <updated>2019-10-29T13:12:24+05:30</updated>
             <summary>
@@ -47,8 +47,8 @@
         <author>
             <name>Akshay Kanthi</name>
         </author>
-        <link href="https://kanthi.io/about-me.html"/>
-        <id>https://kanthi.io/about-me.html</id>
+        <link href="https://kanthi.io/about-me/"/>
+        <id>https://kanthi.io/about-me/</id>
 
         <updated>2019-10-29T11:38:29+05:30</updated>
             <summary>
@@ -69,8 +69,8 @@
         <author>
             <name>Akshay Kanthi</name>
         </author>
-        <link href="https://kanthi.io/restart.html"/>
-        <id>https://kanthi.io/restart.html</id>
+        <link href="https://kanthi.io/restart/"/>
+        <id>https://kanthi.io/restart/</id>
 
         <updated>2019-10-13T17:14:04+05:30</updated>
             <summary>

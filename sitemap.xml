@@ -5,11 +5,11 @@
 <loc>https://kanthi.io/</loc>
 </url>
 <url>
-<loc>https://kanthi.io/about-me.html</loc>
+<loc>https://kanthi.io/about-me/</loc>
 <lastmod>2019-10-29T11:38:29+05:30</lastmod>
 </url>
 <url>
-<loc>https://kanthi.io/freecodecamp-offline.html</loc>
+<loc>https://kanthi.io/freecodecamp-offline/</loc>
 <lastmod>2019-10-29T13:12:24+05:30</lastmod>
 <image:image>
 <image:loc>https://kanthi.io/media/posts/4/offline-online.jpeg</image:loc>
@@ -17,7 +17,7 @@
 </image:image>
 </url>
 <url>
-<loc>https://kanthi.io/restart.html</loc>
+<loc>https://kanthi.io/restart/</loc>
 <lastmod>2019-10-13T17:14:04+05:30</lastmod>
 </url>
 </urlset>
