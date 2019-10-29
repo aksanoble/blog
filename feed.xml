@@ -3,7 +3,7 @@
     <title>kanthi.io</title>
     <link href="https://kanthi.io/feed.xml" rel="self" />
     <link href="https://kanthi.io" />
-    <updated>2019-10-29T13:11:30+05:30</updated>
+    <updated>2019-10-29T13:12:37+05:30</updated>
     <author>
         <name>Akshay Kanthi</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://kanthi.io/freecodecamp-offline.html"/>
         <id>https://kanthi.io/freecodecamp-offline.html</id>
 
-        <updated>2019-10-29T13:02:36+05:30</updated>
+        <updated>2019-10-29T13:12:24+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://kanthi.io/media/posts/4/offline-online.jpeg" alt="Offline Online Abstract" />
@@ -37,6 +37,7 @@
 <p>This makes me wonder if FreeCodeCamp has to be a web based service that needs to be accessed from the same central servers. Can FreeCodeCamp be hosted on something like <a href="https://ipfs.io" target="_blank" rel="noopener noreferrer">IPFS</a>? While we think on how we can make FreeCodeCamp work offline there is a different interpretation for offline FCC that I am excited about. </p>
 <p>A dedicated physical <em>offline </em>space for people to come and work on FreeCodeCamp and learn programming. That's what <a href="https://propel.school" target="_blank" rel="noopener noreferrer">propel.school</a> is all about. We're looking to start a dedicated space for this. </p>
 <p>More updates soon... </p>
+<p> </p>
 <p> </p>
             ]]>
         </content>
