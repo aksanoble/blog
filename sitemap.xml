@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://aksanoble.github.io/blog/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://kanthi.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://aksanoble.github.io/blog/</loc>
+<loc>https://kanthi.io/</loc>
 </url>
 <url>
-<loc>https://aksanoble.github.io/blog/restart.html</loc>
+<loc>https://kanthi.io/about-me.html</loc>
+<lastmod>2019-10-29T11:38:29+05:30</lastmod>
+</url>
+<url>
+<loc>https://kanthi.io/freecodecamp-offline.html</loc>
+<lastmod>2019-10-29T13:02:36+05:30</lastmod>
+<image:image>
+<image:loc>https://kanthi.io/media/posts/4/offline-online.jpeg</image:loc>
+<image:title><![CDATA[Offline Online Abstract]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://kanthi.io/restart.html</loc>
 <lastmod>2019-10-13T17:14:04+05:30</lastmod>
 </url>
 </urlset>
