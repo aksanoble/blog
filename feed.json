@@ -10,6 +10,35 @@
     },
     "items": [
         {
+            "id": "https://kanthi.io/sassy/",
+            "url": "https://kanthi.io/sassy/",
+            "title": "SASSY",
+            "summary": "Let's say you want to write. You need ink. I've got ink. May I have a bottle, you ask. Not so simple. See ink is messy. You may get your clothes dirty. What if you decide to play Spill the bottle. I have a better&hellip;",
+            "content_html": "<p>Let's say you want to write.</p>\n<p>You need ink. I've got ink. <br>May I have a bottle, you ask. </p>\n<p>Not so simple. See ink is messy.<br>You may get your clothes dirty. <br>What if you decide to play<br>Spill the bottle. <br><br>I have a better suggestion<br>You come over to my spot. <br>I've got a nice table, a pot full of ink<br>And plenty of paper too. <br><br>You write to your heart's content <br>Write all you want<br>At the end of the day<br>You leave your paper behind. <br><br>Here I keep them safe<br>In a locker<br>You may visit them anytime. <br>Make any changes<br>Read and trash them too<br><br>While I save a copy<br>Lest you change your mind<br>Just remember to always <br>Leave your paper behind. <br><br>What kind of a perversion is that?<br>That my Lady is <br>Software as a Service. <br><br></p>",
+            "image": "https://kanthi.io/media/posts/6/sexy-2339958_1280.jpg",
+            "author": {
+                "name": "Akshay Kanthi"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-05-10T00:12:59+05:30",
+            "date_modified": "2020-05-10T00:12:59+05:30"
+        },
+        {
+            "id": "https://kanthi.io/idea-daily/",
+            "url": "https://kanthi.io/idea-daily/",
+            "title": "Idea Daily",
+            "summary": "The computer is a canvas unlike anyother. The same machine and infinite possibilities. And I keep seeing different possibilities. But while it tempts and teases with the possibilities that I see, what does it take it to materialize. As a canvas, it's also unique. A&hellip;",
+            "content_html": "<p>The computer is a canvas unlike anyother. The same machine and infinite possibilities. And I keep seeing different possibilities. But while it tempts and teases with the possibilities that I see, what does it take it to materialize. </p>\n<p>As a canvas, it's also unique. A painting painted by multiple people, sometimes 2 and at times infinite. And when will all of them materialize. </p>\n<p>Today's idea: </p>\n<p>An attendance tracking system using face detection and matching. While there are some issues related to privacy I think the face is a very reasonable biometric. It's how each person recognises the other and it's already unique. Remember the photo ID? </p>\n<p>Almost every ID system has a picture. </p>",
+            "author": {
+                "name": "Akshay Kanthi"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-02-06T11:45:52+05:30",
+            "date_modified": "2020-02-06T11:45:52+05:30"
+        },
+        {
             "id": "https://kanthi.io/freecodecamp-offline/",
             "url": "https://kanthi.io/freecodecamp-offline/",
             "title": "FreeCodeCamp Offline ",
