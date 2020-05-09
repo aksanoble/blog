@@ -25,20 +25,6 @@
             "date_modified": "2020-05-10T00:14:44+05:30"
         },
         {
-            "id": "https://kanthi.io/idea-daily/",
-            "url": "https://kanthi.io/idea-daily/",
-            "title": "Idea Daily",
-            "summary": "The computer is a canvas unlike anyother. The same machine and infinite possibilities. And I keep seeing different possibilities. But while it tempts and teases with the possibilities that I see, what does it take it to materialize. As a canvas, it's also unique. A&hellip;",
-            "content_html": "<p>The computer is a canvas unlike anyother. The same machine and infinite possibilities. And I keep seeing different possibilities. But while it tempts and teases with the possibilities that I see, what does it take it to materialize. </p>\n<p>As a canvas, it's also unique. A painting painted by multiple people, sometimes 2 and at times infinite. And when will all of them materialize. </p>\n<p>Today's idea: </p>\n<p>An attendance tracking system using face detection and matching. While there are some issues related to privacy I think the face is a very reasonable biometric. It's how each person recognises the other and it's already unique. Remember the photo ID? </p>\n<p>Almost every ID system has a picture. </p>",
-            "author": {
-                "name": "Akshay Kanthi"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-02-06T11:45:52+05:30",
-            "date_modified": "2020-02-06T11:45:52+05:30"
-        },
-        {
             "id": "https://kanthi.io/freecodecamp-offline/",
             "url": "https://kanthi.io/freecodecamp-offline/",
             "title": "FreeCodeCamp Offline ",
