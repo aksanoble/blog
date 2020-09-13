@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://kanthi.io/her-majesty/",
+            "url": "https://kanthi.io/her-majesty/",
+            "title": "Her Majesty",
+            "summary": "Back in your arms Mother My heart skips A beat as if To take a pause And inhale you fully Once and for all As mind races To admire you With its limited vocabulary Sssshh... Ssshhh I'm silenced By your majesty Leaving nothing But an endless&hellip;",
+            "content_html": "Back in your arms<br>Mother<br>My heart skips \n<div>A beat as if<br>To take a pause <br>And inhale you fully<br>Once and for all<br>As mind races<br>To admire you <br>With its limited <br>vocabulary<br>Sssshh... Ssshhh<br>I'm silenced<br>By your majesty<br>Leaving nothing<br>But an endless<br>Dumbstruck gaze</div>",
+            "image": "https://kanthi.io/media/posts/9/IMG_20200911_163723.jpg",
+            "author": {
+                "name": "Akshay Kanthi"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-09-13T14:26:44+05:30",
+            "date_modified": "2020-09-13T14:26:44+05:30"
+        },
+        {
             "id": "https://kanthi.io/sassy/",
             "url": "https://kanthi.io/sassy/",
             "title": "SASSY",

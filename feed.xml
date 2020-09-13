@@ -3,12 +3,35 @@
     <title>kanthi.io</title>
     <link href="https://kanthi.io/feed.xml" rel="self" />
     <link href="https://kanthi.io" />
-    <updated>2020-09-13T14:22:02+05:30</updated>
+    <updated>2020-09-13T14:26:58+05:30</updated>
     <author>
         <name>Akshay Kanthi</name>
     </author>
     <id>https://kanthi.io</id>
 
+    <entry>
+        <title>Her Majesty</title>
+        <author>
+            <name>Akshay Kanthi</name>
+        </author>
+        <link href="https://kanthi.io/her-majesty/"/>
+        <id>https://kanthi.io/her-majesty/</id>
+
+        <updated>2020-09-13T14:26:44+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://kanthi.io/media/posts/9/IMG_20200911_163723.jpg" alt="" />
+                    Back in your arms Mother My heart skips A beat as if To take a pause And inhale you fully Once and for all As mind races To admire you With its limited vocabulary Sssshh... Ssshhh I'm silenced By your majesty Leaving nothing But an endless&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://kanthi.io/media/posts/9/IMG_20200911_163723.jpg" alt="" />
+                Back in your arms<br>Mother<br>My heart skips 
+<div>A beat as if<br>To take a pause <br>And inhale you fully<br>Once and for all<br>As mind races<br>To admire you <br>With its limited <br>vocabulary<br>Sssshh... Ssshhh<br>I'm silenced<br>By your majesty<br>Leaving nothing<br>But an endless<br>Dumbstruck gaze</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>SASSY</title>
         <author>
