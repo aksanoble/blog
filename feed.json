@@ -9,5 +9,94 @@
         "name": "Akshay Kanthi"
     },
     "items": [
+        {
+            "id": "https://kanthi.io/telebooth/",
+            "url": "https://kanthi.io/telebooth/",
+            "title": "Telebooth",
+            "summary": "At MountBlue we process a few thousand candidates who have applied to our Software Engineer trainee position. Our process involves 6-7 communication steps Needless to say that all the above communication between the organisation and the candidate is extremely important for both the parties. Currently&hellip;",
+            "content_html": "<p>At <a href=\"#INTERNAL_LINK#/post/null\" title=\"https://mountblue.io\">MountBlue</a> we process a few thousand candidates who have applied to our Software Engineer trainee position. Our process involves 6-7 communication steps</p>\n<ul>\n<li>Send Candidate acknowledgement email as soon as the candidate applies to the position.</li>\n<li>Send invite to home test</li>\n<li>Send reminder to home test</li>\n<li>Send home test result</li>\n<li>Send invite to live interview</li>\n<li>Send live interview reminder</li>\n<li>Send result of live interview</li>\n<li>Send offer letter</li>\n<li>Send joining date</li>\n</ul>\n<p>Needless to say that all the above communication between the organisation and the candidate is extremely important for both the parties. Currently all the above important notifications are sent via email. But emails may get ignored because of the sheer volume and email landing up in <code>Updates</code> / <code>Promotions</code> section of Gmail. Ideally we'd want to send all these important notifications via a messaging platform such as <code>WhatsApp</code> or <code>Telegram</code>.</p>\n<p>As far as I know there is no straight forward way to get API access on WhatsApp. There's a way out though. Telegram. In my understanding the quickest way to create a separate identity for your business and send messages programmatically on Telegram is via the Telegram Bot API.</p>\n<p>Great. We use Airtable as our ATS. So I wrote an Airtable script to send messages using our Telegram Bot. Problem solved? Except that once the candidate receive the message they would also want to respond back with questions / confirmations. For that a Telegram Web interface would have been really convenient.</p>\n<p>Is there a Telegram Web interface that you can connect with your Bot and hold both 1-1 conversations as well as send programmatic messages?</p>\n<p>Welcome <a href=\"https://telebooth.kanthi.io\">Telebooth</a>. Telebooth is a simple web interface similar to WhatsApp Web or Telegram web that you can connect with your Telegram Bot and hold both 1-1 messages with all your stakeholders as well as send messages in bulk. It might be particularly relevant for businesses / individuals who still don't want a full fledged CRM and can do with a simple web interface with 1-2 people in the organisation managing all communication.</p>\n<p>What's more Telebooth is <a href=\"https://github.com/aksanoble/telebooth\">free and open-source</a>. Self host and use it with no restrictions on the number of messages or users.</p>\n<p>Is this relevant to you? Do you have any questions or feedback? Please let me know.</p>",
+            "image": "https://kanthi.io/media/posts/11/telebooth.png",
+            "author": {
+                "name": "Akshay Kanthi"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-01-02T15:09:54+05:30",
+            "date_modified": "2021-01-02T15:10:22+05:30"
+        },
+        {
+            "id": "https://kanthi.io/her-majesty/",
+            "url": "https://kanthi.io/her-majesty/",
+            "title": "her majesty",
+            "summary": "back in your arms mother my heart skips a beat as if to take a pause and inhale you fully once and for all as mind races to admire you with its limited vocabulary sssshh... ssshhh i'm silenced by your majesty leaving nothing but an&hellip;",
+            "content_html": "back in your arms<br>mother<br>my heart skips <br>a beat as if<br>to take a pause <br>and inhale you fully<br>once and for all<br>as mind races<br>to admire you <br>with its limited <br>vocabulary<br>sssshh... ssshhh<br>i'm silenced<br>by your majesty<br>leaving nothing<br>but an endless<br>dumbstruck gaze",
+            "image": "https://kanthi.io/media/posts/9/IMG_20200911_163723.jpg",
+            "author": {
+                "name": "Akshay Kanthi"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-09-13T14:26:44+05:30",
+            "date_modified": "2020-09-13T14:35:11+05:30"
+        },
+        {
+            "id": "https://kanthi.io/sassy/",
+            "url": "https://kanthi.io/sassy/",
+            "title": "SASSY",
+            "summary": "Let's say you want to write. You need ink. I've got ink. May I have a bottle, you ask. Not so simple. See ink is messy. You may get your clothes dirty. What if you decide to play Spill the bottle. I have a better&hellip;",
+            "content_html": "<p>Let's say you want to write.</p>\n<p>You need ink. I've got ink. <br>May I have a bottle, you ask. </p>\n<p>Not so simple. See ink is messy.<br>You may get your clothes dirty. <br>What if you decide to play<br>Spill the bottle. <br><br>I have a better suggestion<br>You come over to my spot. <br>I've got a nice table, a pot full of ink<br>And plenty of paper too. <br><br>You write to your heart's content <br>Write all you want<br>At the end of the day<br>You leave your paper behind. <br><br>Here I keep them safe<br>In a locker<br>You may visit them anytime. <br>Make any changes<br>Read and trash them too<br><br>While I save a copy<br>Lest you change your mind<br>Just remember to always <br>Leave your paper behind. <br><br>What kind of a perversion is that?<br>That my Lady is <br>Software as a Service. <br><br></p>",
+            "image": "https://kanthi.io/media/posts/6/sexy-2339958_1280.jpg",
+            "author": {
+                "name": "Akshay Kanthi"
+            },
+            "tags": [
+                   "SASS"
+            ],
+            "date_published": "2020-05-10T00:12:59+05:30",
+            "date_modified": "2020-05-10T00:14:44+05:30"
+        },
+        {
+            "id": "https://kanthi.io/freecodecamp-offline/",
+            "url": "https://kanthi.io/freecodecamp-offline/",
+            "title": "FreeCodeCamp Offline ",
+            "summary": "We're running a program called propel.school which is a 2 week free program to get started with learning how to code. 2 weeks is a very short duration to be able to turn you into a coder but it's a start. Our goal from the&hellip;",
+            "content_html": "<p>We're running a program called <a href=\"https://propel.school\" target=\"_blank\" rel=\"noopener noreferrer\">propel.school</a> which is a 2 week free program to get started with learning how to code. 2 weeks is a very short duration to be able to turn you into a coder but it's a start. Our goal from the program is to give you a <em>taste </em>for programming and give you exposure on next steps for learning web development and how to start applying for jobs. </p>\n<p>One of the main tasks that people do during the 2 weeks is work towards getting their <a href=\"https://www.freecodecamp.org/learn/\" target=\"_blank\" rel=\"noopener noreferrer\">Basic Data Stucture and Algorithms Certification on FreeCodeCamp</a>. Recently one of our mentors told me that the FreeCodeCamp website was down. That they were upgrading their curriculum and it would probably take 2 days to be able to bring it back up. Something about that statement was weird. Although I was excited about a new project based curriclum 2 days seemed like an awful long time for the transition.</p>\n<p>On closer look I found out <a href=\"https://www.freecodecamp.org/news/freecodecamp-servers-update-october-2019/\" target=\"_blank\" rel=\"noopener noreferrer\">what the heck was going on FreeCodeCamp servers</a>. It was heartening the extraordinary level of commitment when Quincy assures us that FCC will never go down. Even if it means </p>\n<blockquote>\n<p> I would go get some other job and pay for the servers myself.</p>\n<p>- Quincy Larson</p>\n</blockquote>\n<p>This makes me wonder if FreeCodeCamp has to be a web based service that needs to be accessed from the same central servers. Can FreeCodeCamp be hosted on something like <a href=\"https://ipfs.io\" target=\"_blank\" rel=\"noopener noreferrer\">IPFS</a>? While we think on how we can make FreeCodeCamp work offline there is a different interpretation for offline FCC that I am excited about. </p>\n<p>A dedicated physical <em>offline </em>space for people to come and work on FreeCodeCamp and learn programming. That's what <a href=\"https://propel.school\" target=\"_blank\" rel=\"noopener noreferrer\">propel.school</a> is all about. We're looking to start a dedicated space for this. </p>\n<p>More updates soon... </p>\n<p> </p>\n<p> </p>",
+            "image": "https://kanthi.io/media/posts/4/offline-online.jpeg",
+            "author": {
+                "name": "Akshay Kanthi"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-10-29T13:02:36+05:30",
+            "date_modified": "2019-10-29T13:38:04+05:30"
+        },
+        {
+            "id": "https://kanthi.io/about-me/",
+            "url": "https://kanthi.io/about-me/",
+            "title": "About me",
+            "summary": " ... some form of distributed trust system “the killingest of killer apps” for the web - Craig Newmark",
+            "content_html": "<blockquote>\n<pre> ... <a href=\"https://gigaom.com/2010/03/18/craig-newmark-on-the-webs-next-big-problem/\" target=\"_blank\" rel=\"noopener noreferrer\">some form of distributed trust system “the killingest of killer apps” for the web</a> - Craig Newmark</pre>\n</blockquote>",
+            "author": {
+                "name": "Akshay Kanthi"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-10-29T11:38:12+05:30",
+            "date_modified": "2019-10-29T11:38:29+05:30"
+        },
+        {
+            "id": "https://kanthi.io/restart/",
+            "url": "https://kanthi.io/restart/",
+            "title": "ReStart",
+            "summary": "Yet another blogging system. Yet another website.",
+            "content_html": "Yet another blogging system. Yet another website.",
+            "author": {
+                "name": "Akshay Kanthi"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-10-13T17:07:32+05:30",
+            "date_modified": "2019-10-13T17:14:04+05:30"
+        }
     ]
 }

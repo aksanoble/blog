@@ -3,10 +3,172 @@
     <title>kanthi.io</title>
     <link href="https://kanthi.io/feed.xml" rel="self" />
     <link href="https://kanthi.io" />
-    <updated>1970-01-01T05:30:00+05:30</updated>
+    <updated>2021-01-02T15:10:22+05:30</updated>
     <author>
         <name>Akshay Kanthi</name>
     </author>
     <id>https://kanthi.io</id>
 
+    <entry>
+        <title>Telebooth</title>
+        <author>
+            <name>Akshay Kanthi</name>
+        </author>
+        <link href="https://kanthi.io/telebooth/"/>
+        <id>https://kanthi.io/telebooth/</id>
+
+        <updated>2021-01-02T15:10:22+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://kanthi.io/media/posts/11/telebooth.png" alt="Telebooth screenshot" />
+                    At MountBlue we process a few thousand candidates who have applied to our Software Engineer trainee position. Our process involves 6-7 communication steps Needless to say that all the above communication between the organisation and the candidate is extremely important for both the parties. Currently&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://kanthi.io/media/posts/11/telebooth.png" alt="Telebooth screenshot" />
+                <p>At <a href="#INTERNAL_LINK#/post/null" title="https://mountblue.io">MountBlue</a> we process a few thousand candidates who have applied to our Software Engineer trainee position. Our process involves 6-7 communication steps</p>
+<ul>
+<li>Send Candidate acknowledgement email as soon as the candidate applies to the position.</li>
+<li>Send invite to home test</li>
+<li>Send reminder to home test</li>
+<li>Send home test result</li>
+<li>Send invite to live interview</li>
+<li>Send live interview reminder</li>
+<li>Send result of live interview</li>
+<li>Send offer letter</li>
+<li>Send joining date</li>
+</ul>
+<p>Needless to say that all the above communication between the organisation and the candidate is extremely important for both the parties. Currently all the above important notifications are sent via email. But emails may get ignored because of the sheer volume and email landing up in <code>Updates</code> / <code>Promotions</code> section of Gmail. Ideally we'd want to send all these important notifications via a messaging platform such as <code>WhatsApp</code> or <code>Telegram</code>.</p>
+<p>As far as I know there is no straight forward way to get API access on WhatsApp. There's a way out though. Telegram. In my understanding the quickest way to create a separate identity for your business and send messages programmatically on Telegram is via the Telegram Bot API.</p>
+<p>Great. We use Airtable as our ATS. So I wrote an Airtable script to send messages using our Telegram Bot. Problem solved? Except that once the candidate receive the message they would also want to respond back with questions / confirmations. For that a Telegram Web interface would have been really convenient.</p>
+<p>Is there a Telegram Web interface that you can connect with your Bot and hold both 1-1 conversations as well as send programmatic messages?</p>
+<p>Welcome <a href="https://telebooth.kanthi.io">Telebooth</a>. Telebooth is a simple web interface similar to WhatsApp Web or Telegram web that you can connect with your Telegram Bot and hold both 1-1 messages with all your stakeholders as well as send messages in bulk. It might be particularly relevant for businesses / individuals who still don't want a full fledged CRM and can do with a simple web interface with 1-2 people in the organisation managing all communication.</p>
+<p>What's more Telebooth is <a href="https://github.com/aksanoble/telebooth">free and open-source</a>. Self host and use it with no restrictions on the number of messages or users.</p>
+<p>Is this relevant to you? Do you have any questions or feedback? Please let me know.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>her majesty</title>
+        <author>
+            <name>Akshay Kanthi</name>
+        </author>
+        <link href="https://kanthi.io/her-majesty/"/>
+        <id>https://kanthi.io/her-majesty/</id>
+
+        <updated>2020-09-13T14:35:11+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://kanthi.io/media/posts/9/IMG_20200911_163723.jpg" alt="" />
+                    back in your arms mother my heart skips a beat as if to take a pause and inhale you fully once and for all as mind races to admire you with its limited vocabulary sssshh... ssshhh i'm silenced by your majesty leaving nothing but an&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://kanthi.io/media/posts/9/IMG_20200911_163723.jpg" alt="" />
+                back in your arms<br>mother<br>my heart skips <br>a beat as if<br>to take a pause <br>and inhale you fully<br>once and for all<br>as mind races<br>to admire you <br>with its limited <br>vocabulary<br>sssshh... ssshhh<br>i'm silenced<br>by your majesty<br>leaving nothing<br>but an endless<br>dumbstruck gaze
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>SASSY</title>
+        <author>
+            <name>Akshay Kanthi</name>
+        </author>
+        <link href="https://kanthi.io/sassy/"/>
+        <id>https://kanthi.io/sassy/</id>
+            <category term="SASS"/>
+
+        <updated>2020-05-10T00:14:44+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://kanthi.io/media/posts/6/sexy-2339958_1280.jpg" alt="" />
+                    Let's say you want to write. You need ink. I've got ink. May I have a bottle, you ask. Not so simple. See ink is messy. You may get your clothes dirty. What if you decide to play Spill the bottle. I have a better&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://kanthi.io/media/posts/6/sexy-2339958_1280.jpg" alt="" />
+                <p>Let's say you want to write.</p>
+<p>You need ink. I've got ink. <br>May I have a bottle, you ask. </p>
+<p>Not so simple. See ink is messy.<br>You may get your clothes dirty. <br>What if you decide to play<br>Spill the bottle. <br><br>I have a better suggestion<br>You come over to my spot. <br>I've got a nice table, a pot full of ink<br>And plenty of paper too. <br><br>You write to your heart's content <br>Write all you want<br>At the end of the day<br>You leave your paper behind. <br><br>Here I keep them safe<br>In a locker<br>You may visit them anytime. <br>Make any changes<br>Read and trash them too<br><br>While I save a copy<br>Lest you change your mind<br>Just remember to always <br>Leave your paper behind. <br><br>What kind of a perversion is that?<br>That my Lady is <br>Software as a Service. <br><br></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>FreeCodeCamp Offline </title>
+        <author>
+            <name>Akshay Kanthi</name>
+        </author>
+        <link href="https://kanthi.io/freecodecamp-offline/"/>
+        <id>https://kanthi.io/freecodecamp-offline/</id>
+
+        <updated>2019-10-29T13:38:04+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://kanthi.io/media/posts/4/offline-online.jpeg" alt="Offline Online Abstract" />
+                    We're running a program called propel.school which is a 2 week free program to get started with learning how to code. 2 weeks is a very short duration to be able to turn you into a coder but it's a start. Our goal from the&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://kanthi.io/media/posts/4/offline-online.jpeg" alt="Offline Online Abstract" />
+                <p>We're running a program called <a href="https://propel.school" target="_blank" rel="noopener noreferrer">propel.school</a> which is a 2 week free program to get started with learning how to code. 2 weeks is a very short duration to be able to turn you into a coder but it's a start. Our goal from the program is to give you a <em>taste </em>for programming and give you exposure on next steps for learning web development and how to start applying for jobs. </p>
+<p>One of the main tasks that people do during the 2 weeks is work towards getting their <a href="https://www.freecodecamp.org/learn/" target="_blank" rel="noopener noreferrer">Basic Data Stucture and Algorithms Certification on FreeCodeCamp</a>. Recently one of our mentors told me that the FreeCodeCamp website was down. That they were upgrading their curriculum and it would probably take 2 days to be able to bring it back up. Something about that statement was weird. Although I was excited about a new project based curriclum 2 days seemed like an awful long time for the transition.</p>
+<p>On closer look I found out <a href="https://www.freecodecamp.org/news/freecodecamp-servers-update-october-2019/" target="_blank" rel="noopener noreferrer">what the heck was going on FreeCodeCamp servers</a>. It was heartening the extraordinary level of commitment when Quincy assures us that FCC will never go down. Even if it means </p>
+<blockquote>
+<p> I would go get some other job and pay for the servers myself.</p>
+<p>- Quincy Larson</p>
+</blockquote>
+<p>This makes me wonder if FreeCodeCamp has to be a web based service that needs to be accessed from the same central servers. Can FreeCodeCamp be hosted on something like <a href="https://ipfs.io" target="_blank" rel="noopener noreferrer">IPFS</a>? While we think on how we can make FreeCodeCamp work offline there is a different interpretation for offline FCC that I am excited about. </p>
+<p>A dedicated physical <em>offline </em>space for people to come and work on FreeCodeCamp and learn programming. That's what <a href="https://propel.school" target="_blank" rel="noopener noreferrer">propel.school</a> is all about. We're looking to start a dedicated space for this. </p>
+<p>More updates soon... </p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>About me</title>
+        <author>
+            <name>Akshay Kanthi</name>
+        </author>
+        <link href="https://kanthi.io/about-me/"/>
+        <id>https://kanthi.io/about-me/</id>
+
+        <updated>2019-10-29T11:38:29+05:30</updated>
+            <summary>
+                <![CDATA[
+                     ... some form of distributed trust system “the killingest of killer apps” for the web - Craig Newmark
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <blockquote>
+<pre> ... <a href="https://gigaom.com/2010/03/18/craig-newmark-on-the-webs-next-big-problem/" target="_blank" rel="noopener noreferrer">some form of distributed trust system “the killingest of killer apps” for the web</a> - Craig Newmark</pre>
+</blockquote>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>ReStart</title>
+        <author>
+            <name>Akshay Kanthi</name>
+        </author>
+        <link href="https://kanthi.io/restart/"/>
+        <id>https://kanthi.io/restart/</id>
+
+        <updated>2019-10-13T17:14:04+05:30</updated>
+            <summary>
+                <![CDATA[
+                    Yet another blogging system. Yet another website.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                Yet another blogging system. Yet another website.
+            ]]>
+        </content>
+    </entry>
 </feed>
