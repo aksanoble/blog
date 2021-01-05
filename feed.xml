@@ -3,7 +3,7 @@
     <title>kanthi.io</title>
     <link href="https://kanthi.io/feed.xml" rel="self" />
     <link href="https://kanthi.io" />
-    <updated>2021-01-05T14:52:07+05:30</updated>
+    <updated>2021-01-05T15:09:49+05:30</updated>
     <author>
         <name>Akshay Kanthi</name>
     </author>
@@ -20,7 +20,7 @@
             <category term="crm"/>
             <category term="bot"/>
 
-        <updated>2021-01-05T14:52:07+05:30</updated>
+        <updated>2021-01-05T15:09:49+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://kanthi.io/media/posts/12/christian-wiediger-GWkioAj5aB4-unsplash.jpg" alt="Customer support on Telegram" />
@@ -62,7 +62,7 @@
 <p>Yes, there's a bot for that. Please follow the instructions given here. <a href="https://core.telegram.org/bots#3-how-do-i-create-a-bot">https://core.telegram.org/bots#3-how-do-i-create-a-bot</a></p>
 <h4>Managing your Bot with Telebooth</h4>
 <p>While it's very easy to create a new Telegram Bot identity, managing the same is far from trivial. Generally businesses connect the Telegram Bot token with a CRM such as <a href="http://respond.io">respond.io</a>, freshchat etc to start managing 1-1 conversations reaching out to the Bot.</p>
-<p>If you're looking for a simpler self-managed solution you can consider using Telebooth to manage your Telegram Bot. It's free and open source software with no restrictions on usage.</p>
+<p>If you're looking for a simpler self-managed solution you can consider using <a href="https://telebooth.kanthi.io" target="_blank" rel="noopener noreferrer">Telebooth</a> to manage your Telegram Bot. It's free and open source software with no restrictions on usage.</p>
 <p>Please follow the setup instructions here: <a href="https://telebooth.kanthi.io/docs/index">https://telebooth.kanthi.io/docs/index</a></p>
 <h4>Publish your Telegram ID on your website</h4>
 <p>Now that you've connected your Telegram account to Telebooth you're ready to start receiving messages. Go ahead and publish your Telegram Bot details on the website. Your id will look something like <code>https://t.me/businessNameBot</code></p>
