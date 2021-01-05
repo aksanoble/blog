@@ -3,12 +3,75 @@
     <title>kanthi.io</title>
     <link href="https://kanthi.io/feed.xml" rel="self" />
     <link href="https://kanthi.io" />
-    <updated>2021-01-02T15:10:22+05:30</updated>
+    <updated>2021-01-05T14:52:07+05:30</updated>
     <author>
         <name>Akshay Kanthi</name>
     </author>
     <id>https://kanthi.io</id>
 
+    <entry>
+        <title>Getting started with Customer Support on Telegram</title>
+        <author>
+            <name>Akshay Kanthi</name>
+        </author>
+        <link href="https://kanthi.io/getting-started-with-customer-support-on-telegram/"/>
+        <id>https://kanthi.io/getting-started-with-customer-support-on-telegram/</id>
+            <category term="telegram"/>
+            <category term="crm"/>
+            <category term="bot"/>
+
+        <updated>2021-01-05T14:52:07+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://kanthi.io/media/posts/12/christian-wiediger-GWkioAj5aB4-unsplash.jpg" alt="Customer support on Telegram" />
+                    For any business customer support and addressing queries is absolutely essential. While large businesses have elaborate CRM (Customer Relationship Management) systems, small business owners generally need something much more simple. Today we can already see businesses using WhatsApp extensively to interact and engage with their&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://kanthi.io/media/posts/12/christian-wiediger-GWkioAj5aB4-unsplash.jpg" alt="Customer support on Telegram" />
+                <p>For any business customer support and addressing queries is absolutely essential. While large businesses have elaborate CRM (Customer Relationship Management) systems, small business owners generally need something much more simple.</p>
+<p>Today we can already see businesses using WhatsApp extensively to interact and engage with their customers with their WhatsApp Business account.</p>
+<p>While WhatsApp Business account works great for addressing customer queries there are a few caveats.</p>
+<ul>
+<li>Restricted API access. (WhatsApp business API is currently available only for medium and large businesses only)</li>
+<li>Need to have a separate phone number for your business.</li>
+<li>Restrictions on the number of users you can broadcast your message. (Currently 256)</li>
+</ul>
+<p>To navigate around some of these restrictions businesses can leverage another popular messaging platform Telegram. Let's see how Telegram addresses some of the above concerns.</p>
+<ul>
+<li>Open API access.</li>
+<li>You can create a Bot account for your business without having to have a separate phone number.</li>
+<li>No limits on number of contacts or messages. (Has a generous rate limit of 30 messages / second)</li>
+</ul>
+<h3>How to start engaging your customers on Telegram.</h3>
+<h4>Create separate Telegram business identity</h4>
+<p>There are two types of accounts on Telegram.</p>
+<ul>
+<li>User account</li>
+<li>Bot account</li>
+</ul>
+<p>If you want to get a user account you need to have a separate phone number. We recommend creating a Bot account instead. Some advantages for why a Bot account makes more sense for businesses.</p>
+<ul>
+<li>Independent Business identity, not tied to a phone number.</li>
+<li>Easy to integrate self-service features for customers</li>
+<li>Easy API for broadcast messages.</li>
+<li>Seamlessly move to a full fledged CRM while retaining the same Telegram Business identity.</li>
+</ul>
+<p>How to create a Telegram Bot?</p>
+<p>Yes, there's a bot for that. Please follow the instructions given here. <a href="https://core.telegram.org/bots#3-how-do-i-create-a-bot">https://core.telegram.org/bots#3-how-do-i-create-a-bot</a></p>
+<h4>Managing your Bot with Telebooth</h4>
+<p>While it's very easy to create a new Telegram Bot identity, managing the same is far from trivial. Generally businesses connect the Telegram Bot token with a CRM such as <a href="http://respond.io">respond.io</a>, freshchat etc to start managing 1-1 conversations reaching out to the Bot.</p>
+<p>If you're looking for a simpler self-managed solution you can consider using Telebooth to manage your Telegram Bot. It's free and open source software with no restrictions on usage.</p>
+<p>Please follow the setup instructions here: <a href="https://telebooth.kanthi.io/docs/index">https://telebooth.kanthi.io/docs/index</a></p>
+<h4>Publish your Telegram ID on your website</h4>
+<p>Now that you've connected your Telegram account to Telebooth you're ready to start receiving messages. Go ahead and publish your Telegram Bot details on the website. Your id will look something like <code>https://t.me/businessNameBot</code></p>
+<h4>Start chatting</h4>
+<p>Once you have connected your Telegram Business account to Telebooth you should have a familiar web interface to start chatting with all customers.</p>
+<p>If you need any assistance in setting up Telebooth or need a managed service, please write to <a href="mailto:akshay@kanthi.io">akshay@kanthi.io</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Telebooth</title>
         <author>
