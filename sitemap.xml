@@ -5,10 +5,6 @@
 <loc>https://kanthi.io/</loc>
 </url>
 <url>
-<loc>https://kanthi.io/about-me/</loc>
-<lastmod>2019-10-29T11:38:29+05:30</lastmod>
-</url>
-<url>
 <loc>https://kanthi.io/data-commons/</loc>
 <lastmod>2021-01-08T02:28:04+05:30</lastmod>
 <image:image>
@@ -61,6 +57,26 @@
 <image:image>
 <image:loc>https://kanthi.io/media/posts/6/sexy-2339958_1280.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://kanthi.io/tech-by-the-lake/</loc>
+<lastmod>2021-11-24T14:05:00+05:30</lastmod>
+<image:image>
+<image:loc>https://kanthi.io/media/posts/19/IMG_20211120_070135.jpeg</image:loc>
+<image:title><![CDATA[reservoir dog]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://kanthi.io/media/posts/19/IMG_20211115_092745.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://kanthi.io/media/posts/19/IMG_20211115_163546-3.jpeg</image:loc>
+<image:title><![CDATA[Tushar brewing]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://kanthi.io/media/posts/19/IMG_20211114_211820_LL.jpeg</image:loc>
+<image:title><![CDATA[Coloredcow]]></image:title>
 </image:image>
 </url>
 <url>
