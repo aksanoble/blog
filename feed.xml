@@ -3,12 +3,32 @@
     <title>kanthi.io</title>
     <link href="https://kanthi.io/feed.xml" rel="self" />
     <link href="https://kanthi.io" />
-    <updated>2021-11-24T14:05:00+05:30</updated>
+    <updated>2022-03-11T13:56:56+05:30</updated>
     <author>
         <name>Akshay Kanthi</name>
     </author>
     <id>https://kanthi.io</id>
 
+    <entry>
+        <title>About me</title>
+        <author>
+            <name>Akshay Kanthi</name>
+        </author>
+        <link href="https://kanthi.io/about-me/"/>
+        <id>https://kanthi.io/about-me/</id>
+
+        <updated>2022-03-11T13:56:56+05:30</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+<p>Hello! </p>
+<p>I'm currently in Hubli, Karnataka. The place where I was born and did my schooling. </p>
+<p>Working with <a href="https://semanticwebindia.com" target="_blank" rel="noopener noreferrer">Semantic Web India</a> to learn more about connecting data so that we could learn more from connected data! </p>
+<p>My interests include knowledge graphs, machine learning, decentralised web, data ownership, remote living, sustainability, alternative learning. </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Tech by the lake</title>
         <author>
@@ -297,26 +317,6 @@
 <p>More updates soon... </p>
 <p> </p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>ReStart</title>
-        <author>
-            <name>Akshay Kanthi</name>
-        </author>
-        <link href="https://kanthi.io/restart/"/>
-        <id>https://kanthi.io/restart/</id>
-
-        <updated>2019-10-13T17:14:04+05:30</updated>
-            <summary>
-                <![CDATA[
-                    Yet another blogging system. Yet another website.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                Yet another blogging system. Yet another website.
             ]]>
         </content>
     </entry>

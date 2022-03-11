@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://kanthi.io/about-me/",
+            "url": "https://kanthi.io/about-me/",
+            "title": "About me",
+            "content_html": "\n<p>Hello! </p>\n<p>I'm currently in Hubli, Karnataka. The place where I was born and did my schooling. </p>\n<p>Working with <a href=\"https://semanticwebindia.com\" target=\"_blank\" rel=\"noopener noreferrer\">Semantic Web India</a> to learn more about connecting data so that we could learn more from connected data! </p>\n<p>My interests include knowledge graphs, machine learning, decentralised web, data ownership, remote living, sustainability, alternative learning. </p>",
+            "author": {
+                "name": "Akshay Kanthi"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-03-11T13:56:56+05:30",
+            "date_modified": "2022-03-11T13:56:56+05:30"
+        },
+        {
             "id": "https://kanthi.io/tech-by-the-lake/",
             "url": "https://kanthi.io/tech-by-the-lake/",
             "title": "Tech by the lake",
@@ -145,20 +158,6 @@
             ],
             "date_published": "2019-10-29T13:02:36+05:30",
             "date_modified": "2019-10-29T13:38:04+05:30"
-        },
-        {
-            "id": "https://kanthi.io/restart/",
-            "url": "https://kanthi.io/restart/",
-            "title": "ReStart",
-            "summary": "Yet another blogging system. Yet another website.",
-            "content_html": "Yet another blogging system. Yet another website.",
-            "author": {
-                "name": "Akshay Kanthi"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-10-13T17:07:32+05:30",
-            "date_modified": "2019-10-13T17:14:04+05:30"
         }
     ]
 }
