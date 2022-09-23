@@ -3,7 +3,7 @@
     <title>kanthi.io</title>
     <link href="https://kanthi.io/feed.xml" rel="self" />
     <link href="https://kanthi.io" />
-    <updated>2022-09-23T14:19:07+05:30</updated>
+    <updated>2022-09-23T14:35:29+05:30</updated>
     <author>
         <name>Akshay Kanthi</name>
     </author>
@@ -22,7 +22,7 @@
             <category term="golden.com"/>
             <category term="diffbot"/>
 
-        <updated>2022-09-23T14:18:43+05:30</updated>
+        <updated>2022-09-23T14:35:29+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://kanthi.io/media/posts/20/DALLE-2022-09-23-13.55.26-We-are-all-interconnected-in-a-web-of-networks-and-systems-like-roots-cyber-punk-style.png" alt="" />
@@ -65,7 +65,9 @@
 </figure>
 <p>The advantage of the graph structure is the modelling flexibility and extensibility. We can arbitrarily connect each node to any other node via different types of relationships. This is the fundamental idea behind the semantic web. <br><br>The World Wide Web Consortium (W3C) has published standards to agree and interoperate on how to publish data structured as graphs on the open web. </p>
 <p>Despite being in development for more than 25 years the semantic web hasn't really taken off. <a href="https://terminusdb.com/blog/the-semantic-web-is-dead/" target="_blank" rel="noopener noreferrer">Much</a> has been said about why the semantic web hasn't really taken off. At the heart of it  web applications that facilitate creating structured content on the internet have no incentives to share the hard collected data on the open web in an interoperable standard. Especially when the entire point of the business is to lock that data down and not share it at all costs. <br><br>But accessible organised knowledge about the world is paramount. We can even set a price to it. The asking rate is about <a href="https://www.diffbot.com/pricing/" target="_blank" rel="noopener noreferrer">300$ for about 10,000 things</a>. <br><br>Another consequence of organised information not being accessible is the enormous cost of discoverability on the web. In 2022 for the first time ever world wide online ad spend is set to cross $600B.</p>
-<p>The extent of information organised in the world should be measured by the reduction in global ad spend. Global ad spend is a sort of tax for discovery. We need to find avenues of reducing this burden. My current thesis is that access to knowledge commons combined with the information of who has published the information and how we know them can help significantly in discoverability both from the perspective of people looking for answers and entities looking to be discovered. <br><br>The W3C approach of standards is on the assumption of self-publishing of data. But as a world we aren't there yet.  It's the same reason why we use gmail despite email being an open standard. We still continue to use Twitter despite there being ActivityPub. People aren't managing their own servers on their own terms. It's just easier to use centralised services and get the job done. The incentives are also aligned for organisations to build such centralised platforms. For now. </p>
+<p>The extent of information organised in the world should be measured by the reduction in global ad spend. Global ad spend is a sort of tax for discovery. We need to find avenues of reducing this burden. My current thesis is that access to knowledge commons combined with the information of who has published the information and how we know them can help significantly in discoverability both from the perspective of people looking for answers and entities looking to be discovered. </p>
+<p><strong>Decentralised dilemma </strong></p>
+<p>The W3C approach of standards is on the assumption of self-publishing of data. But as a world we aren't there yet.  It's the same reason why we use gmail despite email being an open standard. We still continue to use Twitter despite there being ActivityPub. People aren't managing their own servers on their own terms. It's just easier to use centralised services and get the job done. The incentives are also aligned for organisations to build such centralised platforms. For now. </p>
 <p>Are there centralised platforms to organise all human knowledge? There are!</p>
 <p>One of the earliest projects in this space was <a href="https://en.wikipedia.org/wiki/Freebase_(database)" target="_blank" rel="noopener noreferrer">freebase</a>.  Freebase got acquired by Google and was eventually shut down. Freebase at Google evolved to be the Google Knowledge Graph. The data and the crowdsourcing part of freebase currently exists as <a href="http://wikidata.org/" target="_blank" rel="noopener noreferrer">wikidata</a>. </p>
 <p>The problem with Wikidata is the same as that on Wikipedia page. You and I aren't on it. Your dog doesn't have a wikipedia page (<a href="https://en.wikipedia.org/wiki/Royal_corgis" target="_blank" rel="noopener noreferrer">unless you're the queen</a>) and would be taken down if you were to create one. The problem is that of <a href="https://en.wikipedia.org/wiki/Wikipedia:Notability">notability</a>. </p>
