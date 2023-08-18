@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://kanthi.io/selfhosting-caprover-versus-cloudron/",
+            "url": "https://kanthi.io/selfhosting-caprover-versus-cloudron/",
+            "title": "Selfhosting: Caprover versus Cloudron",
+            "summary": "Caveat: I've been using Caprover for close to two years now and haven't had any trouble. I haven't used cloudron but have been considering it as a Caprover alternative. My top two reasons to look for alternatives. - Automatic backups for all apps. If my&hellip;",
+            "content_html": "<p>Caveat: <br><br>I've been using <a href=\"https://caprover.com\" target=\"_blank\" rel=\"noopener noreferrer\">Caprover</a> for close to two years now and haven't had any trouble. I haven't used cloudron but have been considering it as a Caprover alternative. </p>\n<p>My top two reasons to look for alternatives. </p>\n<p>- Automatic backups for all apps. If my whole evaporates crashes I'd like to point my new server instance to my old backup and recover last state. I'm not aware of any straightforward way of accomplishing this on Caprover. </p>\n<p>- While it's super straightforward to install a packaged application via the one click install, there's no simple way of upgrading the application. I've updated a couple of applications by simply updating the docker release version of the packaged app and prayers. </p>\n<p>And these are the exact reasons that <a href=\"https://cloudron.io\" target=\"_blank\" rel=\"noopener noreferrer\">Cloudron</a> seems to be tackling. My only concerns seem to be around being able to deploy custom apps. This is quite trivial with Caprover and quite convenient. For popular runtimes the captain-defintion file <a href=\"https://caprover.com/docs/captain-definition-file.html\" target=\"_blank\" rel=\"noopener noreferrer\"> is 2 lines</a>. And there are multiple ways to deploy including a github web hook. This has worked well. </p>\n<p>This doesn't look as straightforward on Cloudron. Packaging even simple apps seems quite verbose and I'd need to setup a docker registry? The other 'concern' with Cloudron is 15$/month. This seems fair given the convenience however caprover is totally free. <br><br>Have you considered self-hosting? What are your thoughts? </p>",
+            "author": {
+                "name": "Akshay Kanthi"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-08-18T22:10:34+05:30",
+            "date_modified": "2023-08-18T22:14:42+05:30"
+        },
+        {
             "id": "https://kanthi.io/baserow-self-hosting/",
             "url": "https://kanthi.io/baserow-self-hosting/",
             "title": "Baserow self hosting",
@@ -148,22 +162,6 @@
             ],
             "date_published": "2020-09-13T14:26:44+05:30",
             "date_modified": "2020-09-13T14:35:11+05:30"
-        },
-        {
-            "id": "https://kanthi.io/sassy/",
-            "url": "https://kanthi.io/sassy/",
-            "title": "SASSY",
-            "summary": "Let's say you want to write. You need ink. I've got ink. May I have a bottle, you ask. Not so simple. See ink is messy. You may get your clothes dirty. What if you decide to play Spill the bottle. I have a better&hellip;",
-            "content_html": "<p>Let's say you want to write.</p>\n<p>You need ink. I've got ink. <br>May I have a bottle, you ask. </p>\n<p>Not so simple. See ink is messy.<br>You may get your clothes dirty. <br>What if you decide to play<br>Spill the bottle. <br><br>I have a better suggestion<br>You come over to my spot. <br>I've got a nice table, a pot full of ink<br>And plenty of paper too. <br><br>You write to your heart's content <br>Write all you want<br>At the end of the day<br>You leave your paper behind. <br><br>Here I keep them safe<br>In a locker<br>You may visit them anytime. <br>Make any changes<br>Read and trash them too<br><br>While I save a copy<br>Lest you change your mind<br>Just remember to always <br>Leave your paper behind. <br><br>What kind of a perversion is that?<br>That my Lady is <br>Software as a Service. <br><br></p>",
-            "image": "https://kanthi.io/media/posts/6/sexy-2339958_1280.jpg",
-            "author": {
-                "name": "Akshay Kanthi"
-            },
-            "tags": [
-                   "SASS"
-            ],
-            "date_published": "2020-05-10T00:12:59+05:30",
-            "date_modified": "2020-05-10T00:14:44+05:30"
         }
     ]
 }
